@@ -1,0 +1,27 @@
+/* here I start on the background. 
+my idea is an image to act as a background instead of backgorund color */
+
+
+/* working on formating  of paragraph*/
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* working on h1 format */
+h1{
+    align-items: center;
+    align-content: first baseline;
+    color: aqua;
+
+}
+
+/* background image */
+#background image{
+    background-image: url(images/background\ 1.jpg);     
+   
+}
+
+body{
+    background-image: url(images/background\ 1.jpg);
+}
+

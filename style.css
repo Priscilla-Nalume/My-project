@@ -24,4 +24,17 @@ h1{
 body{
     background-image: url(images/background\ 1.jpg);
 }
+.love{
+   background-color: hsl(0, 100%, 40%);
+}
+.button{
+    background-color: #04AA6D;
+    display: inline-block;
+    cursor: s-resize;
+    transition-duration: 1.0s;
+    padding: 20px;
+    box-shadow: #04AA6D;
+}
+
+
 

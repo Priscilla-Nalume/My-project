@@ -1,0 +1,30 @@
+*{
+    margin: 0cm;
+}
+.first{
+    border-color: rgb(255, 0, 13);
+    background-color: brown;
+    
+}
+
+.second {
+    background-color: darkorange;
+}
+.third{
+    background-color: chartreuse;
+    /* display: flexbox; */
+    /* justify-content: space-between; */
+    /* display: flex; */
+}
+.love{
+   background-color: hsl(0, 100%, 40%);
+}
+.button{
+    background-color: #04AA6D;
+    display: inline-block;
+    cursor: pointer;
+    transition-duration: 1.0s;
+    padding: 20px;
+    box-shadow: #04AA6D;
+}
+

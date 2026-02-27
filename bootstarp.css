@@ -3,3 +3,10 @@
 .col-md-4{
     background-color: bisque;
 }
+.image{
+    content: icon;
+}
+.button{
+    color: aquamarine;
+    background-color: blueviolet;
+}
